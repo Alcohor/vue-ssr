@@ -8,6 +8,8 @@
       <h2 class="subtitle">
         My superior Nuxt.js project
       </h2>
+      <h2 class="roman">Times New Roman</h2>
+      <h2 class="simsun">Sim Sun</h2>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -39,6 +41,12 @@ export default {
 </script>
 
 <style>
+h2.roman{
+  font-family: "Times New Roman",
+}
+h2.sim-sun{
+  font-family: "sim sun",
+}
 .container {
   margin: 0 auto;
   min-height: 100vh;
