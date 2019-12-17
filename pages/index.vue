@@ -42,10 +42,10 @@ export default {
 
 <style>
 h2.roman{
-  font-family: "Times New Roman",
+  font-family: "Times New Roman"
 }
 h2.sim-sun{
-  font-family: "sim sun",
+  font-family: "sim sun"
 }
 .container {
   margin: 0 auto;
